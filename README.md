@@ -1,6 +1,6 @@
 # Axtelix
 
-**Axtelix — Art Life Gear**
+**Axtelix — Smart Life Gear**
 A premium lifestyle e-commerce platform.
 
 🔗 **Live:** [axtelix.netlify.app](https://axtelix.netlify.app/)
