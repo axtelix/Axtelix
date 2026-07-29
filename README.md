@@ -13,5 +13,7 @@ This repository contains no application code. It exists solely to preserve the l
 
 🟢 Live and actively maintained.
 
+> If you're here hoping to find the source code... nice try. Go build your own.
+
 ---
 © Axtelix. All rights reserved.
