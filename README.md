@@ -1,16 +1,17 @@
-## Hi there 👋
+# Axtelix
 
-<!--
-**axtelix/Axtelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Página oficial de **Axtelix** — Art Life Gear.
 
-Here are some ideas to get you started:
+🔗 Sitio en vivo: **[axtelix.netlify.app](https://axtelix.netlify.app/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositorio sirve únicamente como redirección desde la URL histórica de GitHub Pages (`axtelix.github.io/Axtelix/`) hacia el hosting actual del proyecto. El código fuente completo (frontend + backend) es privado.
+
+## Stack
+
+- **Frontend:** HTML/CSS/JS — hosteado en Netlify
+- **Backend:** Flask (Python) — hosteado en Render
+- **Base de datos:** Supabase
+- **Notificaciones:** EmailJS
+
+---
+© Axtelix — Todos los derechos reservados.
