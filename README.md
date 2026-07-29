@@ -1,17 +1,17 @@
 # Axtelix
 
-Página oficial de **Axtelix** — Art Life Gear.
+Official page for **Axtelix** — Art Life Gear.
 
-🔗 Sitio en vivo: **[axtelix.netlify.app](https://axtelix.netlify.app/)**
+🔗 Live site: **[axtelix.netlify.app](https://axtelix.netlify.app/)**
 
-Este repositorio sirve únicamente como redirección desde la URL histórica de GitHub Pages (`axtelix.github.io/Axtelix/`) hacia el hosting actual del proyecto. El código fuente completo (frontend + backend) es privado.
+This repository exists only to redirect the legacy GitHub Pages URL (`axtelix.github.io/Axtelix/`) to the project's current hosting. The full source code (frontend + backend) is private.
 
 ## Stack
 
-- **Frontend:** HTML/CSS/JS — hosteado en Netlify
-- **Backend:** Flask (Python) — hosteado en Render
-- **Base de datos:** Supabase
-- **Notificaciones:** EmailJS
+- **Frontend:** HTML/CSS/JS — hosted on Netlify
+- **Backend:** Flask (Python) — hosted on Render
+- **Database:** Supabase
+- **Notifications:** EmailJS
 
 ---
-© Axtelix — Todos los derechos reservados.
+© Axtelix — All rights reserved.
